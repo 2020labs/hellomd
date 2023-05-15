@@ -1,4 +1,4 @@
-# hellomd
+# HelloMD
 Hello Markdown 
 
 这是一个用于入门 GitHub Markdown 学习的仓库。
